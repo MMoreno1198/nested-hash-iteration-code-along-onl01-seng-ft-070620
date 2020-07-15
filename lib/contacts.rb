@@ -1,6 +1,3 @@
-
-
- 
   contacts = {
     "Jon Snow" => {
       name: "Jon",
